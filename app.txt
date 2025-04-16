@@ -1,3 +1,5 @@
+Всем привет!
+
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (
         QApplication, QWidget, 
@@ -16,6 +18,7 @@ class Question():
         self.wrong2 = wrong2
         self.wrong3 = wrong3
 
+Тут новый класс
 
 questions_list = [] 
 questions_list.append(
